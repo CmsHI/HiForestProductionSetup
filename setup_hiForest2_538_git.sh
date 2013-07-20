@@ -24,6 +24,6 @@ cvs co -r V00-02-01 RecoHI/HiJetAlgos
 
 # Build!
 
-scram build -c
-scram b -j4
+scram build --convertxml
+scram build -j4
 

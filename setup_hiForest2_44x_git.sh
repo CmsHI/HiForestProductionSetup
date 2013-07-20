@@ -27,5 +27,5 @@ cvs co -r hi44X_02 HLTrigger/HLTanalyzers
 
 # Build!
 
-scram build -c
-scram b -j4
+scram build --convertxml
+scram build -j4
