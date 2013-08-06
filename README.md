@@ -15,4 +15,4 @@ Create a new, clean area using the correct CMSSW version (currently CMSSW_5_3_8_
 
 The last command may take ~5 minutes to finish checking out all the code and compiling it. If there are ANY errors which halt compilation, please report them to the hn-cms-hi-general list and check in to CVS/git any changes you make to fix errors.
 
-Foresting configurations reside in https://github.com/CmsHI/HiForestProduction/tree/master/CmsHi/JetAnalysis/test (or in the folder CmsHi/JetAnalysis/test if you follow these directions). The naming convention should tell you what sample each configuration is intended for. 
+Foresting configurations reside in https://github.com/CmsHI/HiForestProduction/tree/master/CmsHi/JetAnalysis/test (or in the folder CmsHi/JetAnalysis/test if you follow these directions). Different branches have different configurations available - please check the branch appropriate for your needs. The naming convention should tell you what sample each configuration is intended for. 
