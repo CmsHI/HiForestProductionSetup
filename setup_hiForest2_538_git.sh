@@ -2,7 +2,7 @@
 #  HiForest2 Configuration  #
 #############################
 
-git clone -b 53x git@github.com:CmsHI/HiForestProduction.git ./
+git clone -b 53x_2013-18-14-1418 git@github.com:CmsHI/HiForestProduction.git ./
 
 # Simulations
 cvs co -r V00-01-14 GeneratorInterface/HiGenCommon
