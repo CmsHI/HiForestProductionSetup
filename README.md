@@ -9,7 +9,7 @@ Create a new, clean area using the correct CMSSW version (currently CMSSW_5_3_8_
     cmsrel CMSSW_5_3_8_HI_patch2
     cd CMSSW_5_3_8_HI_patch2
     cmsenv
-    git clone -b <tagname> git@github.com:CmsHI/HiForestProductionSetup.git
+    git clone git@github.com:CmsHI/HiForestProductionSetup.git
     cd src/
     ../HiForestProductionSetup/setup_hiForest2_538_git.sh
 
