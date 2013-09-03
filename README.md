@@ -1,4 +1,4 @@
-HiForestProductionSetup
+HiForestSetup
 =======================
 
 Scripts to setup the HiForestProduction areas
@@ -9,9 +9,9 @@ Create a new, clean area using the correct CMSSW version (currently CMSSW_5_3_8_
     cmsrel CMSSW_5_3_8_HI_patch2
     cd CMSSW_5_3_8_HI_patch2
     cmsenv
-    git clone git@github.com:CmsHI/HiForestProductionSetup.git
+    git clone git@github.com:CmsHI/HiForestSetup.git
     cd src/
-    ../HiForestProductionSetup/setup_hiForest2_538_git.sh
+    ../HiForestSetup/setup_hiForest2_538_git.sh
 
 The last command may take ~5 minutes to finish checking out all the code and compiling it. If there are ANY errors which halt compilation, please report them to the hn-cms-hi-general list and check in to CVS/git any changes you make to fix errors.
 
