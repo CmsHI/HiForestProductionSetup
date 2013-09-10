@@ -9,7 +9,7 @@ cvs co -r hi44X_03                 HeavyIonsAnalysis/Configuration
 
 # Latest hiSelectedTrack (= hiGoodTightTrack)
 cvs co -r hi44X_03                 RecoHI/HiTracking
-cvs co -r hi44X_03                 RecoHI/HiMuonAlgos
+cvs co -r HEAD                     RecoHI/HiMuonAlgos
 cvs co -r hi44X_03                 RecoHI/HiJetAlgos
 cvs co -r hi44X_03                 RecoHI/HiCentralityAlgos
 cvs co -r hi44X_03                 RecoHI/HiEvtPlaneAlgos
