@@ -1,3 +1,5 @@
+DEPRECATED, USE CMSSW FORK INSTEAD
+
 HiForestSetup
 =======================
 
